@@ -41,7 +41,7 @@ Application designed to track daily expenses and help users manage personal fina
 
 ## Contact
 Email: pranathipariseneni@gmail.com  
-LinkedIn: https://www.linkedin.com/in/pranathi-pariseneni-120ba5352?utm_source=share_via&utm_content=profile&utm_medium=member_android
+LinkedIn: https://www.linkedin.com/in/pranathi-pariseneni/
 <!--
 **pranathi8000/pranathi8000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
